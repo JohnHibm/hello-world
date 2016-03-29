@@ -1,3 +1,3 @@
 # hello-world
 ## Initial repository
-This is John's first branch repository.
+This is John's second branch.
